@@ -1,1 +1,2 @@
-Esse é um joguinho feito em aula, para treinar os comandos vistos, obviamente assim como os outros arquivos tenho muito que melhorar, e voltarei futuramente para o mesmo...
+#Jogo de Estourar Balões
+<p>Um Jogo de estourar balões, treinando a manipulação do DOM</p>
